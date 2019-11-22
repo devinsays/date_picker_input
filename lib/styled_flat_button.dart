@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:date_picker_input/styles/styles.dart';
+import 'package:date_picker_input/styles.dart';
 
 class StyledFlatButton extends StatelessWidget {
   final String text;
@@ -15,7 +15,7 @@ class StyledFlatButton extends StatelessWidget {
     return FlatButton(
       color: Styles.primary500,
       child: Padding(
-        padding: const EdgeInsets.symmetric(vertical: 18.0),
+        padding: EdgeInsets.symmetric(vertical: 18.0),
         child: Text(
           this.text,
           style: Styles.p.copyWith(

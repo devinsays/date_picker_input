@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-import 'package:date_picker_input/styles/styles.dart';
+import 'package:date_picker_input/styles.dart';
 import 'package:date_picker_input/styled_flat_button.dart';
 import 'package:date_picker_input/date_picker.dart';
 
