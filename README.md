@@ -8,7 +8,7 @@ When the FlatButton is tapped, the date selection is added to the input field.
 
 ### Screenshots
 
-|![Empty Input](https://github.com/devinsays/date_picker_input/screenshots/screen-1.jpg)| ![Validation Error](https://github.com/devinsays/date_picker_input/screenshots/screen-2.jpg)| ![Date Picker](https://github.com/devinsays/date_picker_input/screenshots/screen-3.jpg)|
+|![Empty Input](https://github.com/devinsays/date_picker_input/raw/master/screenshots/screen-1.jpg)| ![Validation Error](https://github.com/devinsays/date_picker_input/raw/master/screenshots/screen-2.jpg)| ![Date Picker](https://github.com/devinsays/date_picker_input/raw/master/screenshots/screen-3.jpg)|
 
 ### To Use
 
